@@ -1,8 +1,6 @@
-<!-- OTA Bengaluru Logo v2 — OOMPH + MERCH CORE --><!-- Concept: Iconic, geometric, future‑athletic, BLR energy. Exportable on tees, caps, bibs. --><svg width="360" height="200" viewBox="0 0 360 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="360" height="200" fill="#080A0C"/>  <!-- Circle container for merch identity -->  <circle cx="180" cy="100" r="85" stroke="#00E2AA" stroke-width="6" fill="none"/>  <!-- OTA custom letterform: block, kinetic, monogram feel -->  <text x="50%" y="105" text-anchor="middle" dominant-baseline="central" font-family="'Poppins', sans-serif" font-weight="900" font-size="76" fill="#FFFFFF" letter-spacing="-4" font-style="normal">
-    OTA
-  </text>  <!-- Speed wedges / motion cuts around circle -->  <line x1="250" y1="75" x2="295" y2="60" stroke="#00E2AA" stroke-width="6" stroke-linecap="round"/>
-  <line x1="250" y1="125" x2="295" y2="140" stroke="#00E2AA" stroke-width="6" stroke-linecap="round"/>  <!-- Kannada small‑brand tag bottom center -->  <text x="50%" y="175" text-anchor="middle" dominant-baseline="central" font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="24" fill="#00E2AA" opacity="0.9">
+<!-- OTA Bengaluru Logo v3 — Fast + Playful + Tribe (B+C+A) --><!-- Concept: Minimal monogram, playground motion, cult signal --><svg width="380" height="200" viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="380" height="200" fill="#0A0A0A"/>  <!-- O as running track / playground circle (slightly squashed, open) -->  <path d="M120,100c0,-35 50,-35 50,0c0,35 -50,35 -50,0z" stroke="#00E2AA" stroke-width="6" fill="none" stroke-linecap="round"/>  <!-- T as forward motion stroke (two-line kinetic cross) -->  <line x1="185" y1="60" x2="185" y2="140" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <line x1="165" y1="78" x2="255" y2="78" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>  <!-- A as peak / stride shape (no crossbar, playful angle) -->  <path d="M270,140 L295,60 L320,140" stroke="#00E2AA" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>  <!-- Whisper Kannada wordmark -->  <text x="50%" y="180" text-anchor="middle" dominant-baseline="central" font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="26" fill="#00E2AA" opacity="0.9">
     ಓಟಾ ಬೆಂಗಳೂರು
   </text>
 </svg>
