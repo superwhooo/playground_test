@@ -1,5 +1,11 @@
-<!-- OTA Bengaluru Logo v4 — Flow (A) + Pulse (B) runner spirit monogram --><!-- Concept: Human motion stroke integrated into OTA letters. Urban, sacred, kinetic. --><svg width="400" height="220" viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="220" fill="#050607"/>  <!-- O as open-track ellipse (slightly forward tilt) -->  <ellipse cx="115" cy="110" rx="55" ry="35" stroke="#00E2AA" stroke-width="6" fill="none" transform="rotate(-5 115 110)"/>  <!-- T as forward vector (no cross) -->  <line x1="190" y1="60" x2="190" y2="155" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>  <!-- Human motion stroke flowing from T to A (calligraphic pulse) -->  <path d="M190 80 C230 50, 260 55, 285 110 C300 145, 270 170, 250 145" stroke="#00E2AA" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>  <!-- A geometry (peak / stride) minimal, letting the human stroke suggest form -->  <path d="M250 155 L290 60 L330 155" stroke="#FFFFFF" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>  <!-- Subtle Kannada tag -->  <text x="50%" y="200" text-anchor="middle" dominant-baseline="central" font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="22" fill="#00E2AA" opacity="0.9">
-    ಓಟಾ ಬೆಂಗಳೂರು
-  </text>
-</svg>
+<!-- OTA Bengaluru Logo v5 — Urban Club (D) refinement --><!-- Concept: Bold OTA + sleek runner line emerging from A. Street athletic, modern, merchable. --><svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="220" fill="#0B0D0E"/>  <!-- OTA text block, bold & modern --><text x="50%" y="105" text-anchor="middle" dominant-baseline="central"
+font-family="'Poppins', sans-serif" font-weight="900" font-size="92"
+fill="#FFFFFF" letter-spacing="4" font-style="normal">OTA</text>
+
+  <!-- Urban club runner stroke (sleek line emerging from A) -->  <!-- Forward stride, clean, confident, not frantic --><path d="M260 92 C295 75, 322 90, 338 115 C350 135, 330 155, 310 145"
+stroke="#00E2AA" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Optional small head dot near top curve for human hint -->  <circle cx="318" cy="102" r="7" fill="#00E2AA"/>  <!-- Kannada tag subtle below --><text x="50%" y="195" text-anchor="middle" dominant-baseline="central"
+font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="24"
+fill="#00E2AA" opacity="0.95">ಓಟಾ ಬೆಂಗಳೂರು</text> </svg>
