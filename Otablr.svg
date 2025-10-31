@@ -1,4 +1,8 @@
-<!-- OTA Bengaluru logo: Futuristic BLR (F) Direction --><svg width="340" height="150" viewBox="0 0 340 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="340" height="150" fill="#0A0A0A"/>  <!-- OTA Kinetic Letterform -->  <text x="50%" y="72" text-anchor="middle" dominant-baseline="central" font-family="'Poppins', sans-serif" font-weight="900" font-size="78" fill="#FFFFFF" letter-spacing="2" font-style="normal">
+<!-- OTA Bengaluru Logo v2 — OOMPH + MERCH CORE --><!-- Concept: Iconic, geometric, future‑athletic, BLR energy. Exportable on tees, caps, bibs. --><svg width="360" height="200" viewBox="0 0 360 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="200" fill="#080A0C"/>  <!-- Circle container for merch identity -->  <circle cx="180" cy="100" r="85" stroke="#00E2AA" stroke-width="6" fill="none"/>  <!-- OTA custom letterform: block, kinetic, monogram feel -->  <text x="50%" y="105" text-anchor="middle" dominant-baseline="central" font-family="'Poppins', sans-serif" font-weight="900" font-size="76" fill="#FFFFFF" letter-spacing="-4" font-style="normal">
     OTA
-  </text>  <!-- Motion cut line through A (future-athlete accent) -->  <line x1="200" y1="45" x2="255" y2="25" stroke="#00E2AA" stroke-width="6" stroke-linecap="round"/>  <!-- Kannada subtle wordmark below --><text x="50%" y="120" text-anchor="middle" dominant-baseline="central" font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="26" fill="#00E2AA" opacity="0.95">ಓಟಾ ಬೆಂಗಳೂರು</text> </svg>
+  </text>  <!-- Speed wedges / motion cuts around circle -->  <line x1="250" y1="75" x2="295" y2="60" stroke="#00E2AA" stroke-width="6" stroke-linecap="round"/>
+  <line x1="250" y1="125" x2="295" y2="140" stroke="#00E2AA" stroke-width="6" stroke-linecap="round"/>  <!-- Kannada small‑brand tag bottom center -->  <text x="50%" y="175" text-anchor="middle" dominant-baseline="central" font-family="'Noto Sans Kannada', sans-serif" font-weight="600" font-size="24" fill="#00E2AA" opacity="0.9">
+    ಓಟಾ ಬೆಂಗಳೂರು
+  </text>
+</svg>
